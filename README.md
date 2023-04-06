@@ -3,8 +3,8 @@
 
 Jag har ändrat text genom string
 
-<resources>
+*/<resources>
     <string name="app_name">very nice</string>
-</resources>
+</resources>*/
 
 ![](screenshot.png)
